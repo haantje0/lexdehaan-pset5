@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TODOlist</string>
+    <string name="long_press">Long press an item to remove</string>
+</resources>
